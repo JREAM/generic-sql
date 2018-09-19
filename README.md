@@ -1,4 +1,4 @@
-# General SQL Table Schemas
+# Generic SQL (Table Schemas)
 
 Currently the schema is setup without much data besides a few items, This could be useful to look at for any ideas.
 Examples provided rely on many to many relationships.
